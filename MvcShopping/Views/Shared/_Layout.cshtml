@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header>
+        <nav>
+            @Html.ActionLink("首頁", "Index", "Home")
+            | @Html.ActionLink("購物車", "Index", "Cart")
+            @if (User.Identity.IsAuthenticated)
+            {
+               @:| @Html.ActionLink("登出", "Logout", "Member")
+            }
+            else
+            {
+                @:| @Html.ActionLink("登入", "Login", "Member")
+                @:| @Html.ActionLink("註冊", "Register", "Member")
+            }
+        </nav>
+    </header>
+
+    @RenderBody()
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

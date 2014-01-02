@@ -1,0 +1,9 @@
+﻿@model List<MvcShopping.Models.ProductCategory>
+
+<h2>@Html.DisplayNameFor(model => model[0])</h2>
+
+<ul>
+@foreach (var item in Model) {
+    <li>@Html.ActionLink(item.Name, "ProductList", new { id = item.Id })</li>
+}
+</ul>

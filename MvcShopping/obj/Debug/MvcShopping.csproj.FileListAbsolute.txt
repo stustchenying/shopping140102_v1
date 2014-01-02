@@ -1,0 +1,159 @@
+E:\MvcShopping_02\MvcShopping\bin\MvcShopping.dll
+E:\MvcShopping_02\MvcShopping\bin\MvcShopping.pdb
+E:\MvcShopping_02\MvcShopping\bin\Antlr3.Runtime.dll
+E:\MvcShopping_02\MvcShopping\bin\EntityFramework.dll
+E:\MvcShopping_02\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+E:\MvcShopping_02\MvcShopping\bin\Newtonsoft.Json.dll
+E:\MvcShopping_02\MvcShopping\bin\PagedList.dll
+E:\MvcShopping_02\MvcShopping\bin\PagedList.Mvc.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Net.Http.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Net.Http.Formatting.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Net.Http.WebRequest.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Http.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Http.WebHost.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Mvc.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Optimization.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Providers.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Razor.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.dll
+E:\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Razor.dll
+E:\MvcShopping_02\MvcShopping\bin\WebGrease.dll
+E:\MvcShopping_02\MvcShopping\bin\PagedList.xml
+E:\MvcShopping_02\MvcShopping\bin\PagedList.Mvc.xml
+E:\MvcShopping_02\MvcShopping\bin\EntityFramework.xml
+E:\MvcShopping_02\MvcShopping\bin\Newtonsoft.Json.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Net.Http.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Net.Http.Formatting.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Net.Http.WebRequest.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Http.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Http.WebHost.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Mvc.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Web.Razor.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+E:\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Razor.xml
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\EntityFramework.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Net.Http.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Net.Http.WebRequest.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Http.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Providers.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache
+E:\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.Migrations.InitialCreate.resources
+E:\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.csproj.GenerateResource.Cache
+E:\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.dll
+E:\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.pdb
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\MvcShopping.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\MvcShopping.pdb
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\PagedList.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Net.Http.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\PagedList.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Net.Http.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Net.Http.WebRequest.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Providers.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.Migrations.InitialCreate.resources
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.dll
+C:\Users\Administrator\Desktop\MvcShopping_02\MvcShopping\obj\Debug\MvcShopping.pdb
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\MvcShopping.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\MvcShopping.pdb
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\Antlr3.Runtime.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\EntityFramework.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\Newtonsoft.Json.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\PagedList.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\PagedList.Mvc.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Net.Http.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Net.Http.Formatting.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Net.Http.WebRequest.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Http.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Http.WebHost.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Mvc.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Optimization.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Providers.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Razor.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.WebPages.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\WebGrease.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\PagedList.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\PagedList.Mvc.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\EntityFramework.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\Newtonsoft.Json.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Net.Http.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Net.Http.Formatting.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Net.Http.WebRequest.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Http.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Http.WebHost.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Mvc.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.Razor.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.WebPages.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Net.Http.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Net.Http.WebRequest.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.Providers.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\obj\Debug\MvcShopping.Migrations.InitialCreate.resources
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\obj\Debug\MvcShopping.csproj.GenerateResource.Cache
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\obj\Debug\MvcShopping.dll
+C:\Users\Stust\Documents\Visual Studio 2012\Projects\MvcShopping_0102\MvcShopping\obj\Debug\MvcShopping.pdb
